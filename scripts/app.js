@@ -529,4 +529,4 @@ $(document).ready(function() {
             { title: "Meaning", "data":"Meaning" },            
         ]
     } );
-} );
+});
